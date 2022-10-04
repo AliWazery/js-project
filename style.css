@@ -1,0 +1,49 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container-fluid {
+  background-color: #2d85c5;
+  height: 200vh;
+  width: 100%;
+}
+.container-fluid h1 {
+  color: white;
+  text-align: center;
+  font-size: 55px;
+  /* margin-top: 20px; */
+  padding-top: 20px;
+}
+.container-fluid .firstcon {
+  background-color: #c33726;
+  height: 200px;
+}
+.container-md h3 {
+  color: white;
+  font-size: 33px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container-md input {
+}
+.task {
+  padding-top: 20px;
+  background-color: #c33726;
+  height: auto;
+  padding-bottom: 20px;
+}
+
+.check {
+  background-color: dimgray;
+  text-decoration: line-through;
+}
+.up {
+  padding: 6px;
+  font-weight: bold;
+  border-radius: 5px;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #c33726;
+  color: white;
+  border: none;
+}
